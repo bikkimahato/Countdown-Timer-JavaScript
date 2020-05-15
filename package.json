@@ -1,0 +1,23 @@
+{
+  "name": "countdown-timer",
+  "version": "1.0.0",
+  "description": "A countdown timer implemented with Vanilla JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Countdown-Timer-JavaScript.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Countdown-Timer-JavaScript/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Countdown-Timer-JavaScript#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
